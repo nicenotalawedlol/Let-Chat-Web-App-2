@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.log_div1 , .log_div2{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
